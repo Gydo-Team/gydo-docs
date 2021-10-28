@@ -4,3 +4,7 @@ title: Classes
 ---
 
 # Classes
+
+[[toc]]
+
+### Bot

@@ -7,3 +7,5 @@
 # Gydo Docs
 
 The Repo for the Official gydo.js Documentation
+
+Built with [Vuepress V2](https://v2.vuepress.vuejs.org/)
